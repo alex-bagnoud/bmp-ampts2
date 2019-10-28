@@ -30,7 +30,7 @@ Place all the report files into a subfolder named `log_files`.
 
 #### 1.1) Setup file
 
-The setup file `bmp_setup.csv` is a table that includes the following information (for each reactor):
+The [setup file](setup_bmp.csv) `bmp_setup.csv` is a table that includes the following information (for each reactor):
 
 -   `bottle.num`: the bottle number, which should correspond to the bottle number of the AMPTS II assay;
 -   `bottle.id`: a unique identifier for each reactor;
