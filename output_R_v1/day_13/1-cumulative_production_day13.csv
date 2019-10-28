@@ -1,0 +1,211 @@
+days,channel,bottle.id,sample.group,vCH4,cvCH4,rvCH4
+0,4,cellulose 1,Cellulose,0,0,NA
+1,4,cellulose 1,Cellulose,93.3,93.3,93.3
+2,4,cellulose 1,Cellulose,239.2,332.5,239.2
+3,4,cellulose 1,Cellulose,392.2,724.7,392.2
+4,4,cellulose 1,Cellulose,398.3,1123,398.3
+5,4,cellulose 1,Cellulose,150.7,1273.7,150.7
+6,4,cellulose 1,Cellulose,78.9,1352.6,78.9
+7,4,cellulose 1,Cellulose,57.4,1410,57.4
+8,4,cellulose 1,Cellulose,48.5,1458.5,48.5
+9,4,cellulose 1,Cellulose,39.8,1498.3,39.8
+10,4,cellulose 1,Cellulose,36.3,1534.6,36.3
+11,4,cellulose 1,Cellulose,33,1567.6,33
+12,4,cellulose 1,Cellulose,27.9,1595.5,27.9
+13,4,cellulose 1,Cellulose,24.6,1620.1,24.6
+0,5,cellulose 2,Cellulose,0,0,NA
+1,5,cellulose 2,Cellulose,87.3,87.3,87.3
+2,5,cellulose 2,Cellulose,222.2,309.5,222.2
+3,5,cellulose 2,Cellulose,388.7,698.2,388.7
+4,5,cellulose 2,Cellulose,402.6,1100.8,402.6
+5,5,cellulose 2,Cellulose,133,1233.8,133
+6,5,cellulose 2,Cellulose,66.6,1300.4,66.6
+7,5,cellulose 2,Cellulose,48.5,1348.9,48.5
+8,5,cellulose 2,Cellulose,38.8,1387.7,38.8
+9,5,cellulose 2,Cellulose,33.1,1420.8,33.1
+10,5,cellulose 2,Cellulose,31.7,1452.5,31.7
+11,5,cellulose 2,Cellulose,28.3,1480.8,28.3
+12,5,cellulose 2,Cellulose,24.3,1505.1,24.3
+13,5,cellulose 2,Cellulose,20.8,1525.9,20.8
+0,6,cellulose 3,Cellulose,0,0,NA
+1,6,cellulose 3,Cellulose,85.4,85.4,85.4
+2,6,cellulose 3,Cellulose,224.9,310.3,224.9
+3,6,cellulose 3,Cellulose,383.3,693.6,383.3
+4,6,cellulose 3,Cellulose,394.6,1088.2,394.6
+5,6,cellulose 3,Cellulose,142,1230.2,142
+6,6,cellulose 3,Cellulose,70.9,1301.1,70.9
+7,6,cellulose 3,Cellulose,50.4,1351.5,50.4
+8,6,cellulose 3,Cellulose,40.5,1392,40.5
+9,6,cellulose 3,Cellulose,33.3,1425.3,33.3
+10,6,cellulose 3,Cellulose,30.7,1456,30.7
+11,6,cellulose 3,Cellulose,28.3,1484.3,28.3
+12,6,cellulose 3,Cellulose,23.9,1508.2,23.9
+13,6,cellulose 3,Cellulose,19.6,1527.8,19.6
+0,1,inoc 1,Inoculum,0,0,NA
+1,1,inoc 1,Inoculum,74.1,74.1,74.1
+2,1,inoc 1,Inoculum,67.8,141.9,67.8
+3,1,inoc 1,Inoculum,48.7,190.6,48.7
+4,1,inoc 1,Inoculum,40.9,231.5,40.9
+5,1,inoc 1,Inoculum,35.9,267.4,35.9
+6,1,inoc 1,Inoculum,29.8,297.2,29.8
+7,1,inoc 1,Inoculum,27.7,324.9,27.7
+8,1,inoc 1,Inoculum,26.4,351.3,26.4
+9,1,inoc 1,Inoculum,20.1,371.4,20.1
+10,1,inoc 1,Inoculum,20.2,391.6,20.2
+11,1,inoc 1,Inoculum,19.1,410.7,19.1
+12,1,inoc 1,Inoculum,18.2,428.9,18.2
+13,1,inoc 1,Inoculum,15.5,444.4,15.5
+0,2,inoc 2,Inoculum,0,0,NA
+1,2,inoc 2,Inoculum,80.3,80.3,80.3
+2,2,inoc 2,Inoculum,75.3,155.6,75.3
+3,2,inoc 2,Inoculum,56.1,211.7,56.1
+4,2,inoc 2,Inoculum,48.6,260.3,48.6
+5,2,inoc 2,Inoculum,41.5,301.8,41.5
+6,2,inoc 2,Inoculum,35.6,337.4,35.6
+7,2,inoc 2,Inoculum,31.8,369.2,31.8
+8,2,inoc 2,Inoculum,28.7,397.9,28.7
+9,2,inoc 2,Inoculum,22.4,420.3,22.4
+10,2,inoc 2,Inoculum,22.2,442.5,22.2
+11,2,inoc 2,Inoculum,21.4,463.9,21.4
+12,2,inoc 2,Inoculum,19.2,483.1,19.2
+13,2,inoc 2,Inoculum,16.8,499.9,16.8
+0,3,inoc 3,Inoculum,0,0,NA
+1,3,inoc 3,Inoculum,72.6,72.6,72.6
+2,3,inoc 3,Inoculum,69.6,142.2,69.6
+3,3,inoc 3,Inoculum,51.1,193.3,51.1
+4,3,inoc 3,Inoculum,43.1,236.4,43.1
+5,3,inoc 3,Inoculum,37,273.4,37
+6,3,inoc 3,Inoculum,33.1,306.5,33.1
+7,3,inoc 3,Inoculum,28.6,335.1,28.6
+8,3,inoc 3,Inoculum,26.9,362,26.9
+9,3,inoc 3,Inoculum,21.2,383.2,21.2
+10,3,inoc 3,Inoculum,20.7,403.9,20.7
+11,3,inoc 3,Inoculum,20.7,424.6,20.7
+12,3,inoc 3,Inoculum,18.7,443.3,18.7
+13,3,inoc 3,Inoculum,15.9,459.2,15.9
+0,7,sample 1.1,Sample 1,0,0,NA
+1,7,sample 1.1,Sample 1,538.5,538.5,538.5
+2,7,sample 1.1,Sample 1,500.4,1038.9,500.4
+3,7,sample 1.1,Sample 1,191.7,1230.6,191.7
+4,7,sample 1.1,Sample 1,101.5,1332.1,101.5
+5,7,sample 1.1,Sample 1,65.4,1397.5,65.4
+6,7,sample 1.1,Sample 1,49.4,1446.9,49.4
+7,7,sample 1.1,Sample 1,51.1,1498,51.1
+8,7,sample 1.1,Sample 1,48.3,1546.3,48.3
+9,7,sample 1.1,Sample 1,28.3,1574.6,28.3
+10,7,sample 1.1,Sample 1,26.7,1601.3,26.7
+11,7,sample 1.1,Sample 1,23.8,1625.1,23.8
+12,7,sample 1.1,Sample 1,22,1647.1,22
+13,7,sample 1.1,Sample 1,20.6,1667.7,20.6
+0,8,sample 1.2,Sample 1,0,0,NA
+1,8,sample 1.2,Sample 1,550.8,550.8,550.8
+2,8,sample 1.2,Sample 1,487.2,1038,487.2
+3,8,sample 1.2,Sample 1,179.3,1217.3,179.3
+4,8,sample 1.2,Sample 1,96.4,1313.7,96.4
+5,8,sample 1.2,Sample 1,65.2,1378.9,65.2
+6,8,sample 1.2,Sample 1,54.9,1433.8,54.9
+7,8,sample 1.2,Sample 1,60.2,1494,60.2
+8,8,sample 1.2,Sample 1,36.4,1530.4,36.4
+9,8,sample 1.2,Sample 1,29.2,1559.6,29.2
+10,8,sample 1.2,Sample 1,28.1,1587.7,28.1
+11,8,sample 1.2,Sample 1,25.8,1613.5,25.8
+12,8,sample 1.2,Sample 1,23.3,1636.8,23.3
+13,8,sample 1.2,Sample 1,20.7,1657.5,20.7
+0,9,sample 1.3,Sample 1,0,0,NA
+1,9,sample 1.3,Sample 1,547.8,547.8,547.8
+2,9,sample 1.3,Sample 1,506.2,1054,506.2
+3,9,sample 1.3,Sample 1,172.6,1226.6,172.6
+4,9,sample 1.3,Sample 1,97.2,1323.8,97.2
+5,9,sample 1.3,Sample 1,68.2,1392,68.2
+6,9,sample 1.3,Sample 1,66,1458,66
+7,9,sample 1.3,Sample 1,45.1,1503.1,45.1
+8,9,sample 1.3,Sample 1,36.8,1539.9,36.8
+9,9,sample 1.3,Sample 1,28.2,1568.1,28.2
+10,9,sample 1.3,Sample 1,26.9,1595,26.9
+11,9,sample 1.3,Sample 1,24.8,1619.8,24.8
+12,9,sample 1.3,Sample 1,22.3,1642.1,22.3
+13,9,sample 1.3,Sample 1,19.3,1661.4,19.3
+0,10,sample 2.1,Sample 2,0,0,NA
+1,10,sample 2.1,Sample 2,557,557,557
+2,10,sample 2.1,Sample 2,603.8,1160.8,603.8
+3,10,sample 2.1,Sample 2,240.9,1401.7,240.9
+4,10,sample 2.1,Sample 2,120.3,1522,120.3
+5,10,sample 2.1,Sample 2,75.8,1597.8,75.8
+6,10,sample 2.1,Sample 2,65,1662.8,65
+7,10,sample 2.1,Sample 2,67.4,1730.2,67.4
+8,10,sample 2.1,Sample 2,43.2,1773.4,43.2
+9,10,sample 2.1,Sample 2,34.3,1807.7,34.3
+10,10,sample 2.1,Sample 2,32.5,1840.2,32.5
+11,10,sample 2.1,Sample 2,29,1869.2,29
+12,10,sample 2.1,Sample 2,25.4,1894.6,25.4
+13,10,sample 2.1,Sample 2,23.7,1918.3,23.7
+0,11,sample 2.2,Sample 2,0,0,NA
+1,11,sample 2.2,Sample 2,593.9,593.9,593.9
+2,11,sample 2.2,Sample 2,561.3,1155.2,561.3
+3,11,sample 2.2,Sample 2,202.2,1357.4,202.2
+4,11,sample 2.2,Sample 2,115.6,1473,115.6
+5,11,sample 2.2,Sample 2,82.5,1555.5,82.5
+6,11,sample 2.2,Sample 2,74,1629.5,74
+7,11,sample 2.2,Sample 2,57.4,1686.9,57.4
+8,11,sample 2.2,Sample 2,43.1,1730,43.1
+9,11,sample 2.2,Sample 2,34.1,1764.1,34.1
+10,11,sample 2.2,Sample 2,32.4,1796.5,32.4
+11,11,sample 2.2,Sample 2,28.4,1824.9,28.4
+12,11,sample 2.2,Sample 2,24.6,1849.5,24.6
+13,11,sample 2.2,Sample 2,22.2,1871.7,22.2
+0,12,sample 2.3,Sample 2,0,0,NA
+1,12,sample 2.3,Sample 2,572,572,572
+2,12,sample 2.3,Sample 2,554.6,1126.6,554.6
+3,12,sample 2.3,Sample 2,185.5,1312.1,185.5
+4,12,sample 2.3,Sample 2,106,1418.1,106
+5,12,sample 2.3,Sample 2,79,1497.1,79
+6,12,sample 2.3,Sample 2,74.3,1571.4,74.3
+7,12,sample 2.3,Sample 2,47.8,1619.2,47.8
+8,12,sample 2.3,Sample 2,40.2,1659.4,40.2
+9,12,sample 2.3,Sample 2,31.3,1690.7,31.3
+10,12,sample 2.3,Sample 2,29.2,1719.9,29.2
+11,12,sample 2.3,Sample 2,26.9,1746.8,26.9
+12,12,sample 2.3,Sample 2,23,1769.8,23
+13,12,sample 2.3,Sample 2,20.8,1790.6,20.8
+0,14,sample 3.2,Sample 3,0,0,NA
+1,14,sample 3.2,Sample 3,518.7,518.7,518.7
+2,14,sample 3.2,Sample 3,499.2,1017.9,499.2
+3,14,sample 3.2,Sample 3,198.9,1216.8,198.9
+4,14,sample 3.2,Sample 3,121,1337.8,121
+5,14,sample 3.2,Sample 3,89.4,1427.2,89.4
+6,14,sample 3.2,Sample 3,78.8,1506,78.8
+7,14,sample 3.2,Sample 3,53.1,1559.1,53.1
+8,14,sample 3.2,Sample 3,41.2,1600.3,41.2
+9,14,sample 3.2,Sample 3,31.1,1631.4,31.1
+10,14,sample 3.2,Sample 3,29,1660.4,29
+11,14,sample 3.2,Sample 3,25.6,1686,25.6
+12,14,sample 3.2,Sample 3,22,1708,22
+13,14,sample 3.2,Sample 3,19.5,1727.5,19.5
+0,15,sample 3.3,Sample 3,0,0,NA
+1,15,sample 3.3,Sample 3,518.4,518.4,518.4
+2,15,sample 3.3,Sample 3,554.8,1073.2,554.8
+3,15,sample 3.3,Sample 3,259,1332.2,259
+4,15,sample 3.3,Sample 3,131.1,1463.3,131.1
+5,15,sample 3.3,Sample 3,76.8,1540.1,76.8
+6,15,sample 3.3,Sample 3,62.3,1602.4,62.3
+7,15,sample 3.3,Sample 3,66.6,1669,66.6
+8,15,sample 3.3,Sample 3,41.2,1710.2,41.2
+9,15,sample 3.3,Sample 3,31,1741.2,31
+10,15,sample 3.3,Sample 3,29.6,1770.8,29.6
+11,15,sample 3.3,Sample 3,27.2,1798,27.2
+12,15,sample 3.3,Sample 3,24.3,1822.3,24.3
+13,15,sample 3.3,Sample 3,22.2,1844.5,22.2
+0,13,sample3.1,Sample 3,0,0,NA
+1,13,sample3.1,Sample 3,505.2,505.2,505.2
+2,13,sample3.1,Sample 3,527.5,1032.7,527.5
+3,13,sample3.1,Sample 3,228.9,1261.6,228.9
+4,13,sample3.1,Sample 3,127.8,1389.4,127.8
+5,13,sample3.1,Sample 3,87.2,1476.6,87.2
+6,13,sample3.1,Sample 3,77.7,1554.3,77.7
+7,13,sample3.1,Sample 3,52.2,1606.5,52.2
+8,13,sample3.1,Sample 3,46.7,1653.2,46.7
+9,13,sample3.1,Sample 3,34.4,1687.6,34.4
+10,13,sample3.1,Sample 3,31.2,1718.8,31.2
+11,13,sample3.1,Sample 3,28.3,1747.1,28.3
+12,13,sample3.1,Sample 3,25.3,1772.4,25.3
+13,13,sample3.1,Sample 3,21.7,1794.1,21.7
