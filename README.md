@@ -12,13 +12,13 @@ Providing a an AMPTS II daily report (as csv format) and another csv file that d
 3.  A [plot](output_R_v1/day_13/3-daily_CH4_production_day13.png) showing for each reactor the methane production rate (i.e. the percentage of the daily CH<sub>4</sub> production over the total CH<sub>4</sub> production);
 4.  A [plot](output_R_v1/day_13/4-bmp_curves_day13.png) showing for each reactor and for each day the BMP value (in NmL CH<sub>4</sub> g<sup>-1</sup> vs);
 5.  A [table](output_R_v1/day_13/5-bmp_obs_and_rates_day13.csv) indicating for each reactor and for each day some useful test indicators (such as the CH<sub>4</sub> rate production, the relative standard deviation of the inoculum, and the CH<sub>4</sub> produced by the inoculum);
-6.  A [barplot](output_R_v1/day_13/6-bmp_values_day13.csv) showing the BMP (expressed as NmL CH<sub>4</sub> g<sup>-1</sup> vs) for each sample tested;
-7.  A [barplot](output_R_v1/day_13/7-bmp_barplot_vs_day13.png) showing the BMP (expressed as NmL CH<sub>4</sub> g<sup>-1</sup> ww) for each sample tested;
-8.  A [table](output_R_v1/day_13/8-bmp_barplot_ww_day13.png) summarizing the BMP values for each substrate tested and for three termination criteria:
+6.  A [table](output_R_v1/day_13/6-bmp_values_day13.csv) summarizing the BMP values for each substrate tested and for three termination criteria:
     -   end of the test (all date are used);
     -   after 25 days of test;
     -   when the daily CH<sub>4</sub> production rate stays below 1% of the total CH<sub>4</sub> production during three consecutive days;
-9.  A [table](9-bmp_summary_day13.csv) which reports the BMP values for each substrates, alongside with other useful (RSD of cellulose, RSD of substrates, fraction of CH<sub>4</sub> produced by the inoculum, etc.).
+7. A [barplot](output_R_v1/day_13/7-bmp_barplot_vs_day13.png) showing the BMP (expressed as NmL CH<sub>4</sub> g<sup>-1</sup> vs) for each sample tested;
+8.  A [barplot](output_R_v1/day_13/8-bmp_barplot_ww_day13.png) showing the BMP (expressed as NmL CH<sub>4</sub> g<sup>-1</sup> ww) for each sample tested; 
+9.  A [table](output_R_v1/day_13/9-bmp_summary_day13.csv) which reports the BMP values for each substrates, alongside with other useful (RSD of cellulose, RSD of substrates, fraction of CH<sub>4</sub> produced by the inoculum, etc.).
 
 ### 1) Input files
 
