@@ -186,9 +186,9 @@ daily.log$temp.celsius <- 0
 daily.log$pressure.hPa <- 1013.25
 ```
 
-### 3) Cumulative methane production
+### 4) Cumulative methane production
 
-##### 3.1) Compute the cumulative CH<sub>4</sub> production
+##### 4.1) Compute the cumulative CH<sub>4</sub> production
 
 We can use here the `cumBg` function of the biogas package to do this calculation.
 
@@ -213,7 +213,7 @@ for (n in 1:nrow(cum.prod)) {
 }
 ```
 
-##### 3.2) Export it as a csv file
+##### 4.2) Export it as a csv file
 
 ``` r
 # Create the output folder (if it does not exist)
@@ -243,7 +243,7 @@ In this output :
 -   `cCH4` is the cumulated volume of the produced CH<sub>4</sub> (in NmL);
 -   `rvCH4` is the production rate of CH<sub>4</sub> (in NmL day<sup>-1</sup>).
 
-##### 3.2) Plot the cumulative production
+##### 4.2) Plot the cumulative production
 
 ``` r
 plot <- ggplot(cum.prod, aes(x=days, y=cvCH4, group = channel, color = sample.group)) +
@@ -265,7 +265,7 @@ print(plot)
 dev.off()
 ```
 
-### 4) Rates of methane production
+### 5) Rates of methane production
 
 First, rates are calculated with `summBg` from the biogas package:
 
@@ -304,7 +304,7 @@ print(rates.plot)
 dev.off()
 ```
 
-### 5) BMP curves
+### 6) BMP curves
 
 The plot that will be computed here will show us what would have been the BMP value (of each reactor) if we would have stop the test earlier.
 
@@ -392,9 +392,9 @@ In this output, some columns intersting columns include:
 
 More information about these values can be found by typing `?summBg` in the console.
 
-### 5) Calculation of the final BMP values (vs-based)
+### 7) Calculation of the final BMP values (vs-based)
 
-##### 5.1) BMP values according to 3 different termination criteria
+##### 7.1) BMP values according to 3 different termination criteria
 
 First, we calculate the BMP values based on all data available:
 
@@ -525,7 +525,7 @@ bmp
 
 More details about the values of this output can be found by typing `?summBg` in the console.
 
-##### 5.2) Selection of a unique BMP value per substrate
+##### 7.2) Selection of a unique BMP value per substrate
 
 In the last output, up to three BMP values were calculated according to 3 different termination criteria. Here only one will be kept, following this rationale:
 
@@ -561,7 +561,7 @@ for (r in 1:nrow(bmp.test.end)) {
 }
 ```
 
-##### 5.3) Barplots of the vs-based BMP
+##### 7.3) Barplots of the vs-based BMP
 
 For each substrate, the BMP termination day according to `bmp.test.end` is read. Then, for this substrate and for this day, the BMP value of all replicates is extracted from `summBg.bmp.curves`:
 
@@ -603,7 +603,7 @@ print(barplot.vs)
 dev.off()
 ```
 
-### 6) Calculation of the final BMP values (ww-based)
+### 8) Calculation of the final BMP values (ww-based)
 
 It can be useful to compute the BMP of substrate on a wet basis. We exclude the positive control from this calculation:
 
@@ -658,7 +658,7 @@ print(barplot.ww)
 dev.off()
 ```
 
-### 7) BMP final report
+### 9) BMP final report
 
 Here, we will generate a report as table that will summarize the BMP assay.
 
