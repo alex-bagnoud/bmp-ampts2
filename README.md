@@ -82,7 +82,7 @@ setwd(bmp.folder)
 In case `log_files/` contains multiple daily reports, only the most recent one will be considered. Outputs from previous days won't be erased, but kept in a separate folder.
 
 ``` r
-l <- list.files(path = log.folder, pattern = "report_.*day.*.csv")
+l <- list.files(path = log.folder, pattern = "report_.*csv")
 log.file.day <- paste0(log.folder, l[length(l)])
 
 daily.log <- read.table(log.file.day, header = T, as.is = T, skip = 16, fill = T, sep = ",")
