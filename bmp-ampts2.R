@@ -82,7 +82,7 @@ setwd(bmp.folder)
 #' In case ```log_files/``` contains multiple daily reports, only the most recent one will be considered.
 #' 
 ## ------------------------------------------------------------------------
-l <- list.files(path = log.folder, pattern = "report_.*day.*.csv")
+l <- list.files(path = log.folder, pattern = "report_.*csv")
 log.file.day <- paste0(log.folder, l[length(l)])
 
 daily.log <- read.table(log.file.day, header = T, as.is = T, skip = 16, fill = T, sep = ",")
@@ -555,7 +555,7 @@ print.mean.ic <- function(vec, quantile = 0.975, decimals = 1, suffix = "") {
   sd <- sd(vec)
   n <- length(vec)
   error <- qt(quantile,df=n-1)*sd/sqrt(n)
-  paste0(round(m, digits = decimals) , " ± ", round(error, digits = decimals), suffix)
+  paste0(round(m, digits = decimals) , " Â± ", round(error, digits = decimals), suffix)
 }
 
 #' 
